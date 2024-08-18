@@ -3,7 +3,6 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
@@ -18,9 +17,6 @@ Welcome to the Tic Tac Toe game! This is a simple project to get started with Ja
 - Interactive user interface
 - Highlighting the winning line
 - Simple and intuitive design
-
-## Demo
-![Tic Tac Toe Demo](demo(2).png)
 
 ## Installation
 To run the game locally, follow these steps:
