@@ -20,7 +20,7 @@ Welcome to the Tic Tac Toe game! This is a simple project to get started with Ja
 - Simple and intuitive design
 
 ## Demo
-![Tic Tac Toe Demo](path/to/demo-image.gif)
+![Tic Tac Toe Demo](demo(2).png)
 
 ## Installation
 To run the game locally, follow these steps:
