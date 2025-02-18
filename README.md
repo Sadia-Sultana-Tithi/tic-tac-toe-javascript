@@ -44,9 +44,5 @@ To run the game locally, follow these steps:
 - CSS3
 - JavaScript
 
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 Created by [Sadia Sultana](https://github.com/Sadia-Sultana-Tithi) - feel free to contact me!
